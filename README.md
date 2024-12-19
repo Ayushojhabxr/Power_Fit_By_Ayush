@@ -1,6 +1,5 @@
 # PowerFit Gym Website
 
-![PowerFit Logo](./assets/logo.png)
 
 Welcome to **PowerFit**, your ultimate online destination for fitness and health! Built with the power of **React** and **TypeScript**, this modern and dynamic website is designed to inspire and motivate individuals on their fitness journey.
 
